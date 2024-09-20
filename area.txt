@@ -1,0 +1,161 @@
+{
+            "type": "area",
+            "facets": [
+                {
+                    "id": "6",
+                    "idSemantico": "comercial-ventas-y-negocios",
+                    "name": "Comercial, Ventas y Negocios",
+                    "quantity": 1594
+                },
+                {
+                    "id": "1",
+                    "idSemantico": "administracion-contabilidad-y-finanzas",
+                    "name": "Administración, Contabilidad y Finanzas",
+                    "quantity": 550
+                },
+                {
+                    "id": "14",
+                    "idSemantico": "marketing-y-publicidad",
+                    "name": "Marketing y Publicidad",
+                    "quantity": 264
+                },
+                {
+                    "id": "3",
+                    "idSemantico": "abastecimiento-y-logistica",
+                    "name": "Abastecimiento y Logística",
+                    "quantity": 255
+                },
+                {
+                    "id": "16",
+                    "idSemantico": "produccion-y-manufactura",
+                    "name": "Producción y Manufactura",
+                    "quantity": 219
+                },
+                {
+                    "id": "22",
+                    "idSemantico": "oficios-y-otros",
+                    "name": "Oficios y Otros",
+                    "quantity": 201
+                },
+                {
+                    "id": "30",
+                    "idSemantico": "ingenierias",
+                    "name": "Ingenierías",
+                    "quantity": 183
+                },
+                {
+                    "id": "25",
+                    "idSemantico": "atencion-al-cliente-call-center-y-telemarketing",
+                    "name": "Atención al Cliente, Call Center y Telemarketing",
+                    "quantity": 129
+                },
+                {
+                    "id": "23",
+                    "idSemantico": "salud-medicina-y-farmacia",
+                    "name": "Salud, Medicina y Farmacia",
+                    "quantity": 104
+                },
+                {
+                    "id": "17",
+                    "idSemantico": "recursos-humanos-y-capacitacion",
+                    "name": "Recursos Humanos y Capacitación",
+                    "quantity": 98
+                },
+                {
+                    "id": "19",
+                    "idSemantico": "tecnologia-sistemas-y-telecomunicaciones",
+                    "name": "Tecnología, Sistemas y Telecomunicaciones",
+                    "quantity": 85
+                },
+                {
+                    "id": "10",
+                    "idSemantico": "gastronomia-y-turismo",
+                    "name": "Gastronomía y Turismo",
+                    "quantity": 70
+                },
+                {
+                    "id": "31",
+                    "idSemantico": "diseno",
+                    "name": "Diseño",
+                    "quantity": 40
+                },
+                {
+                    "id": "2",
+                    "idSemantico": "aduana-y-comercio-exterior",
+                    "name": "Aduana y Comercio Exterior",
+                    "quantity": 37
+                },
+                {
+                    "id": "9",
+                    "idSemantico": "educacion-docencia-e-investigacion",
+                    "name": "Educación, Docencia e Investigación",
+                    "quantity": 36
+                },
+                {
+                    "id": "4",
+                    "idSemantico": "ingenieria-civil-y-construccion",
+                    "name": "Ingeniería Civil y Construcción",
+                    "quantity": 27
+                },
+                {
+                    "id": "18",
+                    "idSemantico": "comunicacion-relaciones-institucionales-y-publicas",
+                    "name": "Comunicación, Relaciones Institucionales y Públicas",
+                    "quantity": 27
+                },
+                {
+                    "id": "26",
+                    "idSemantico": "secretarias-y-recepcion",
+                    "name": "Secretarias y Recepción",
+                    "quantity": 26
+                },
+                {
+                    "id": "13",
+                    "idSemantico": "legales",
+                    "name": "Legales",
+                    "quantity": 23
+                },
+                {
+                    "id": "28",
+                    "idSemantico": "seguros",
+                    "name": "Seguros",
+                    "quantity": 23
+                },
+                {
+                    "id": "35",
+                    "idSemantico": "sociologia-trabajo-social",
+                    "name": "Sociología / Trabajo Social",
+                    "quantity": 11
+                },
+                {
+                    "id": "11",
+                    "idSemantico": "gerencia-y-direccion-general",
+                    "name": "Gerencia y Dirección General",
+                    "quantity": 6
+                },
+                {
+                    "id": "36",
+                    "idSemantico": "departamento-tecnico",
+                    "name": "Departamento Tecnico",
+                    "quantity": 5
+                },
+                {
+                    "id": "29",
+                    "idSemantico": "mineria-petroleo-y-gas",
+                    "name": "Minería, Petróleo y Gas",
+                    "quantity": 4
+                },
+                {
+                    "id": "33",
+                    "idSemantico": "enfermeria",
+                    "name": "Enfermería",
+                    "quantity": 3
+                },
+                {
+                    "id": "38",
+                    "idSemantico": "naviero-maritimo-portuario",
+                    "name": "Naviero, Maritimo, Portuario",
+                    "quantity": 2
+                }
+            ]
+        }

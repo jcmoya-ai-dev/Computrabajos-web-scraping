@@ -1,0 +1,1158 @@
+{
+    "number": 0,
+    "size": 20,
+    "total": 4022,
+    "content": [
+        {
+            "id": 1116463290,
+            "titulo": "Desarrollador Front end (React Angular Javascript)",
+            "detalle": "Empresa líder en gestión de beneficios y nómina en la nube, confiado por más de 20,000 empresas en Canadá. Estamos comprometidos con la innovación y la simplicidad en el procesamiento de nómina y la administración de personal. Buscamos un Desarrollador Front-End para unirse a nuestro equipo dinámico. Trabajarás en estrecha colaboración con desarrolladores, diseñadores y otros miembros del equipo para cumplir los objetivos del proyecto. Te encargarás de desarrollar, documentar y mantener aplicaciones utilizando tecnologías como React, Angular y JavaScript.Funciones Colaborar con el equipo para alcanzar los objetivos del proyecto. Participar en revisiones de código y sesiones de lluvia de ideas. Documentar el código, incluyendo comentarios, guías de uso y manuales técnicos. Mantener actualizada la documentación técnica para facilitar el mantenimiento del software. Requisitos:  Estudios de tercer nivel en áreas relacionadas. Mínimo 3 años de experiencia en desarrollo con C#, .NET Core, Angular, JavaScript, HTML, CSS, SCSS y jQuery. Experiencia en el desarrollo de aplicaciones con React y React Native. Conocimiento de la librería Kendo/Telerik. Experiencia con modelo MVC, AWS, Azure y servicios en la nube. Beneficios  Salario acorde al mercado. Contrato por servicios con empresa del exterior. ",
+            "aptoDiscapacitado": false,
+            "idEmpresa": 1816730,
+            "empresa": "Multitrabajos Staffing",
+            "confidencial": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/9/static/logoMainPic_1816730_bum_v61775a50.jpg",
+            "fechaHoraPublicacion": "08-09-2024 16:12:17",
+            "fechaPublicacion": "08-09-2024",
+            "planPublicacion": {
+                "id": 470,
+                "nombre": "Home Ecuador"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 9,
+            "idArea": 19,
+            "idSubarea": 2621,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Quito, Pichincha",
+            "cantidadVacantes": 1,
+            "guardado": null,
+            "gptwUrl": null,
+            "match": null,
+            "promedioEmpresa": 4.38,
+            "modalidadTrabajo": "Remoto",
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1116463250,
+            "titulo": "Jefe de Compras",
+            "detalle": "Empresa de consumo masivo busca incorprar a su equipo de trabajo un Jefe de Compras con la siguiente descripcion MisionNegociar, licitar y coordinar las actividades de adquisición y abastecimiento para el proceso productivo, no productivo y servicios necesarios para la organizaciòn. Obteniendo siemrpe el mejor precio , calidad, servicio y condiciones de compra. Administrar los proveedores y asegurar el seguimiento del cumplimiento normativo de los mismosRequisitos:Formación académica indispensable: Título de tercer nivel en ingenieria comercial, negocios internacionales administracion de empresas o carreras afines Experiencia: al menos 3 años en licitacion, negociacion y manejo con proveedores, manejo de KPI´SConocimientos deseables adicionales: negociación, manejo de SAP",
+            "aptoDiscapacitado": false,
+            "empresa": "Confidencial",
+            "confidencial": true,
+            "logoURL": null,
+            "fechaHoraPublicacion": "08-09-2024 03:03:28",
+            "fechaPublicacion": "08-09-2024",
+            "planPublicacion": {
+                "id": 470,
+                "nombre": "Home Ecuador"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 9,
+            "idArea": 3,
+            "idSubarea": 56,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Quito, Pichincha",
+            "cantidadVacantes": 1,
+            "guardado": null,
+            "gptwUrl": null,
+            "match": null,
+            "modalidadTrabajo": "Presencial",
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1116463188,
+            "titulo": "Asistente de Mantenimiento Eléctrico",
+            "detalle": "Asistente de Mantenimiento EléctricoResumen del PuestoBuscamos un Asistente de Mantenimiento Eléctrico para unirse a nuestro equipo. El candidato ideal tendrá conocimientos básicos en electricidad y estará dispuesto a aprender y crecer en el campo.Responsabilidades Realizar tareas de mantenimiento preventivo y correctivo en equipos eléctricos. Instalar y reparar cableado eléctrico. Resolver problemas eléctricos. Trabajar con otros miembros del equipo de mantenimiento para garantizar el buen funcionamiento de los sistemas eléctricos. Manejo de generadores, motores eléctricos y tableros de alta y media tensión. Mantenerse al día con las últimas tecnologías y tendencias en mantenimiento eléctrico.Requisitos Educación secundaria completa. Conocimientos básicos en electricidad. Experiencia previa en mantenimiento eléctrico (no excluyente). Excelente capacidad de resolución de problemas. Capacidad para trabajar de forma independiente y como parte de un equipo. Excelentes habilidades de comunicación escrita y verbal.",
+            "aptoDiscapacitado": false,
+            "empresa": "Confidencial",
+            "confidencial": true,
+            "logoURL": null,
+            "fechaHoraPublicacion": "07-09-2024 19:55:12",
+            "fechaPublicacion": "07-09-2024",
+            "planPublicacion": {
+                "id": 470,
+                "nombre": "Home Ecuador"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 9,
+            "idArea": 16,
+            "idSubarea": 70,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Guayaquil, Guayas",
+            "cantidadVacantes": 1,
+            "guardado": null,
+            "gptwUrl": null,
+            "match": null,
+            "modalidadTrabajo": "Presencial",
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1116462621,
+            "titulo": "ASESOR COMERCIAL EXPERTO EN FERRETERÍA A NIVEL NACIONAL",
+            "detalle": "EN MEGAPROFER NOS ENCONTRAMOS EN LA BÚSQUEDA DE ASESORES COMERCIALES EXPERTOS EN FERRETERÍAMisión: Impulsar la venta de productos de la empresa mediante un asesoramiento experto a los clientes, gestionando eficazmente la recuperación de la cartera de clientes para alcanzar los objetivos de presupuesto establecidos.Requisitos: Bachiller o estudios universitarios inconclusos  Contar con movilización propia y licencia al día (indispensable) Experiencia mínima 2 años en el campo ferretero (INDISPENSABLE)Beneficios: Salario Fijo + Comisiones por ventas Viáticos  Beneficios propios de la empresaHabilidades y destrezas Negociación Estrategia de ventas Cobranza Atención al cliente &#x2705; Posición para: QUITO, GUAYAQUIL, CUENCA, SANTO DOMINGO, AMBATO y sus alrededores Si cumples con el perfil, este cargo es para ti.",
+            "aptoDiscapacitado": false,
+            "idEmpresa": 10185321,
+            "empresa": "Megaprofer",
+            "confidencial": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/0/0/1/0/1/8/5/3/2/1/logoMainPic_10185321_bum_v9ac463f5.jpg",
+            "fechaHoraPublicacion": "06-09-2024 21:13:20",
+            "fechaPublicacion": "06-09-2024",
+            "planPublicacion": {
+                "id": 470,
+                "nombre": "Home Ecuador"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 9,
+            "idArea": 6,
+            "idSubarea": 23,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Quito, Pichincha",
+            "cantidadVacantes": 10,
+            "guardado": null,
+            "gptwUrl": null,
+            "match": null,
+            "promedioEmpresa": 1.93,
+            "modalidadTrabajo": "Presencial",
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1116462515,
+            "titulo": "EJECUTIVO DE VENTAS CANAL ESPECIAL/QUITO",
+            "detalle": "ACTIVIDADES: Visita diaria a los clientes, Manejo de clientes Horeca, on trade, grandes superficies. Cumplir con las cuotas y presupuestos de ventas. Negociar y coordinar, actividades comerciales, presencia de marca colocación Dar apoyo en ejecución de eventos. Gestion de cobros (cartera).REQUISITOS: Movilización propia Experiencia en el canal horeca, on trade Experiencia minima 2 años en cargos similares",
+            "aptoDiscapacitado": false,
+            "idEmpresa": 1868410,
+            "empresa": "Celyasa",
+            "confidencial": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/9/static/logoMainPic_1868410_bum_vfa125e9e.jpg",
+            "fechaHoraPublicacion": "06-09-2024 20:33:07",
+            "fechaPublicacion": "06-09-2024",
+            "planPublicacion": {
+                "id": 470,
+                "nombre": "Home Ecuador"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 9,
+            "idArea": 6,
+            "idSubarea": 35,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Quito, Pichincha",
+            "cantidadVacantes": 1,
+            "guardado": null,
+            "gptwUrl": null,
+            "match": null,
+            "promedioEmpresa": 2.69,
+            "modalidadTrabajo": "Presencial",
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1116462175,
+            "titulo": "Ejecutivo de Ventas de Ferretería Industrial",
+            "detalle": "Descripción del puestoEstamos en la búsqueda de un Ejecutivo de Ventas de Ferretería Industrial para unirse a nuestro equipo. El candidato ideal será responsable de la comercialización de productos como tornillos, pernos, ganchos, ruedas, cadenas y otros componentes industriales. Deberá desarrollar y mantener relaciones con clientes actuales y potenciales en diversos sectores, incluyendo construcción y ferreterías.Responsabilidades: Gestionar y ampliar la cartera de clientes en el sector industrial y de ferretería. Identificar oportunidades de negocio y desarrollar estrategias para incrementar las ventas. Asesorar técnicamente a los clientes sobre productos de sujeción, elevación, y movilidad. Realizar visitas comerciales a clientes y prospectos, brindando un servicio personalizado. Cumplir con los objetivos de ventas y reportar el progreso de las actividades comerciales. Participar en ferias, eventos, y capacitaciones para mantenerse actualizado en las tendencias del sector.Requisitos: Experiencia mínima de 2 años en ventas, preferiblemente en el sector industrial o de ferretería. Conocimiento técnico de productos de tornillería, ruedas, cadenas y componentes de elevación. Habilidad para desarrollar relaciones comerciales sólidas y enfoque en el servicio al cliente. Excelentes habilidades de comunicación, negociación, y cierre de ventas. Estudios en Ingeniería, Administración de Empresas, Ventas o carreras afines (deseable).Ofrecemos: Salario base competitivo más comisiones atractivas por cumplimiento de objetivos. Beneficios de ley. Capacitación continua y oportunidades de desarrollo profesional. Un ambiente de trabajo dinámico y orientado a resultados.",
+            "aptoDiscapacitado": false,
+            "empresa": "Confidencial",
+            "confidencial": true,
+            "logoURL": null,
+            "fechaHoraPublicacion": "06-09-2024 18:41:48",
+            "fechaPublicacion": "06-09-2024",
+            "planPublicacion": {
+                "id": 470,
+                "nombre": "Home Ecuador"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 9,
+            "idArea": 6,
+            "idSubarea": 23,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Guayaquil, Guayas",
+            "cantidadVacantes": 1,
+            "guardado": null,
+            "gptwUrl": null,
+            "match": null,
+            "modalidadTrabajo": "Presencial",
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1116462148,
+            "titulo": "LIC. EN RADIOLOGÌA O IMAGEN EXPERIENCIA COMPROBADA",
+            "detalle": "Requerimos incorporar personal licendiados en imagen diagnostica en la ciudad de Quito, disponibilidad para desempeñar funciones a tiempo completo, y disponibilidad de viajeRequisitos:- Educación: Título superior avalado por SENESCYT y ACESS como LICENCIADO EN IMAGEN- Conocimientos: Procedimientos de imagen diagnóstica Rayos X, Densitometría, Mamografia, Tomografia y Resonancia- Experiencia: Mínima de 2 años en cargo de Imagen Diagnóstica- Otros Requisitos: Disponibilidad para laborar en horarios rotativos-Disponibilidad para viajar",
+            "aptoDiscapacitado": false,
+            "empresa": "Confidencial",
+            "confidencial": true,
+            "logoURL": null,
+            "fechaHoraPublicacion": "06-09-2024 18:32:48",
+            "fechaPublicacion": "06-09-2024",
+            "planPublicacion": {
+                "id": 470,
+                "nombre": "Home Ecuador"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 9,
+            "idArea": 23,
+            "idSubarea": 2652,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Quito, Pichincha",
+            "cantidadVacantes": 2,
+            "guardado": null,
+            "gptwUrl": null,
+            "match": null,
+            "modalidadTrabajo": "Presencial",
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1116462106,
+            "titulo": "Ejecutivo de Venta de Soluciones de Negocio",
+            "detalle": "Principales Funciones: Prospectar el mercado para generar oportunidades de negocio para la empresa y hacer seguimiento. Preparar, entregar y presentar las propuestas de negocio a los prospectos. Cumplir con el presupuesto de venta establecido conforme a las políticas comerciales definidas por la empresa. Mantener actualizado el pronóstico de ventas para la revisión periódica del mismo. Mantener actualizada la plataforma CRM para el seguimiento de las oportunidades. Mantenerse al día con las novedades de las soluciones a ofrecer. Colaborar con Mercadeo para generar branding, posicionamiento de marca, generación de campañas publicitarias y prospecciones de mercado. Realizar presentaciones de Producto. Perfil requerido:Años de Experiencia: Al menos 3 años en comercialización de Soluciones Tecnológicas y de NegocioEducación Formal: Título Universitario en Administración de Empresas, Ing. Industrial, Ing. en Sistemas, Gestión de Proyectos o carreras afines y título de cuarto nivel en Negocios MBA.Indispensable tener conocimiento y experiencia en: Metodología de Ventas Metodologías de Estrategia Digital e Innovación Empresarial Implementación de Sistemas ERP y SCM Plataformas de Analítica tipo BI, Advanced Analytics (AI-ML), Big Data, RPA Alta capacidad de relacionamiento interpersonal Contactos a nivel empresarial y gerencial corporativo. Inglés intermedioDeseable: Se valorarán Certificaciones en soluciones empresariales (Metodologías agiles, Gerencia de Proyectos, Transformación Digital, API, SCM) ",
+            "aptoDiscapacitado": false,
+            "idEmpresa": 1818470,
+            "empresa": "Grupo Novatech",
+            "confidencial": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/9/static/logoMainPic_1818470_bum_v29941b55.jpg",
+            "fechaHoraPublicacion": "06-09-2024 18:20:15",
+            "fechaPublicacion": "06-09-2024",
+            "planPublicacion": {
+                "id": 470,
+                "nombre": "Home Ecuador"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 9,
+            "idArea": 6,
+            "idSubarea": 2628,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Quito, Pichincha",
+            "cantidadVacantes": 1,
+            "guardado": null,
+            "gptwUrl": null,
+            "match": null,
+            "promedioEmpresa": null,
+            "modalidadTrabajo": "Híbrido",
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1116462003,
+            "titulo": "TÉCNICO DE SEGURIDAD Y SALUD OCUPACIONAL",
+            "detalle": "Empresa del área comercial se encuentra en la búsqueda de un Técnico de Seguridad y Salud Ocupacional para la ciudad de Quito que se sume a nuestro equipo para garantizar el cumplimiento de normativas y mejorar continuamente los sistemas de gestión de seguridad y salud ocupacional dentro de la organización. El candidato ideal deberá tener una sólida experiencia en la implementación y supervisión de procesos relacionados con la seguridad laboral y estar comprometido con la prevención de riesgos. Requisitos principales: -Título de tercer nivel en Seguridad y Salud Ocupacional (SSO) o título de cuarto nivel (maestría) en la misma área. -Mínimo 3 años de experiencia en cargos similares.-Conocimientos sólidos en: ISO 9001:2015 Decreto 2393 (Reglamento de Seguridad y Salud Ocupacional) -Experiencia en la elaboración de informes, implementación de sistemas de gestión, y auditorías de seguridad. Competencias deseadas:Comunicación asertiva y excelente capacidad de transmitir ideas claras. Proactividad para identificar y resolver problemas de manera efectiva. Excelentes habilidades de comunicación interpersonal, tanto oral como escrita. Capacidad para trabajar en equipo, colaborando de manera efectiva con diferentes áreas de la organización. ",
+            "aptoDiscapacitado": true,
+            "empresa": "Confidencial",
+            "confidencial": true,
+            "logoURL": null,
+            "fechaHoraPublicacion": "06-09-2024 17:51:08",
+            "fechaPublicacion": "06-09-2024",
+            "planPublicacion": {
+                "id": 470,
+                "nombre": "Home Ecuador"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 9,
+            "idArea": 17,
+            "idSubarea": 48,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Quito, Pichincha",
+            "cantidadVacantes": 1,
+            "guardado": null,
+            "gptwUrl": null,
+            "match": null,
+            "modalidadTrabajo": "Presencial",
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1116461450,
+            "titulo": "Ejecutivo Comercial",
+            "detalle": " Ingeniero comercial con conocimientos en comercialización de servicios tecnológicos y procesos. Experiencia mínima 3 años comercializando servicios de tecnología. Habilidades para comprender las necesidades tecnológicas de los clientes. Conocimiento general sobre tendencias tecnológicas. Conocimiento básico sobre gestión de procesos.FUNCIONALIDADES Visita a clientes para entendimiento de necesidades. Gestión de ofertas enviadas a clientes. Negociar y cerrar ofertas comerciales. Soporte en elaboración de contratos de proyectos. Elaboración y ejecución de plan comercial. Informes semanales de gestión comercial.",
+            "aptoDiscapacitado": false,
+            "idEmpresa": 13368661,
+            "empresa": "INTELCOBRO S.A",
+            "confidencial": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/9/static/logoMainPic_13368661_bum_v62538621.jpg",
+            "fechaHoraPublicacion": "06-09-2024 15:24:36",
+            "fechaPublicacion": "06-09-2024",
+            "planPublicacion": {
+                "id": 470,
+                "nombre": "Home Ecuador"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 9,
+            "idArea": 6,
+            "idSubarea": 35,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Quito, Pichincha",
+            "cantidadVacantes": 25,
+            "guardado": null,
+            "gptwUrl": null,
+            "match": null,
+            "promedioEmpresa": 1.71,
+            "modalidadTrabajo": "Presencial",
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1116460137,
+            "titulo": "ADMINISTRADOR-IMPLEMENTADOR ERP",
+            "detalle": "Importante Empresa necesita contratar un Administrador ERP e Implementador, que cumpla los siguientes requisitos: Graduado en Auditoría, Procesos, Sistemas computacionales o afines. Experiencia comprobable en Implementación de sistemas ERP, preferiblemente, SAP B1, NETSUIT o Microsoft Dynamics. Experiencia comprobable en procesos e información empresariales Buenos conocimientos en temas contables Conocimientos en Sql Buen manejo de paquetes Microsoft office Guste de trabajar en equipo y bajo presión Nivel intermedio de inglés. Disponibilidad de viaje dentro y fuera del pais Indicar aspiración salarial Referencias personales y profesionales",
+            "aptoDiscapacitado": false,
+            "empresa": "Confidencial",
+            "confidencial": true,
+            "logoURL": null,
+            "fechaHoraPublicacion": "06-09-2024 16:23:55",
+            "fechaPublicacion": "06-09-2024",
+            "planPublicacion": {
+                "id": 470,
+                "nombre": "Home Ecuador"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 9,
+            "idArea": 19,
+            "idSubarea": 2618,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Quito, Pichincha",
+            "cantidadVacantes": 1,
+            "guardado": null,
+            "gptwUrl": null,
+            "match": null,
+            "modalidadTrabajo": "Presencial",
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1116460847,
+            "titulo": "EC. Analista Jr. Pruebas Funcionales - Eventual 4 meses",
+            "detalle": "EC. Analista Jr. Pruebas Funcionales – Eventual 4 meses  En Telefónica-Movistar, hemos puesto en marcha un nuevo modelo operativo, unificando las operaciones de Argentina, Chile, Colombia, Ecuador, México, Perú, Uruguay y Venezuela, para formar Telefónica Hispanoamérica. Tenemos como misión hacer nuestro mundo más humano, conectando la vida de las personas, entendemos que son ustedes quienes le dan sentido a la tecnología y no al revés. Creemos en el poder transformador de la diversidad, la equidad y la inclusión tanto para el negocio como para la sociedad, por eso nos enfocamos en seguir impulsando una cultura de trabajo abierta que atraiga talento, unimos a las personas y las invitamos a ser ellas mismas, a expresarse, a compartir. Dirección: Operaciones Transversales Ubicación: Quito Misión de rol Realizar pruebas de funcionalidad de las diferentes aplicaciones. Que las mismas cumplan todos los escenarios de pruebas definidos y cuenten con los informes de prueba necesario para dar el ok para la puesta en producción o para el cierre del requerimiento Funciones asociadas al rol Tu día a día será: Participar en las reuniones de prefactibilidad y de análisis del requerimiento Elaborar la estrategia de pruebas en base al alcance del requerimiento preparar los recursos necesarios para elaborar las pruebas Colocar notas de seguimiento diario en Participar en las reuniones de prefactibilidad y de análisis del requerimiento  Elaborar la estrategia de pruebas en base al alcance del requerimiento   preparar los recursos necesarios para elaborar las pruebas  Colocar notas de seguimiento diario en la herramienta Detectar y registrar los errores  Añadir el informe de pruebas  Avanzar el requerimiento en flujo  Participar en pruebas producción  Generar y añadir el informe de pruebas producción  Realizar el ajuste correspondiente de forma semanal a las cuentas utilizadas para las pruebas  Tener responsabilidad en los recursos de pruebas: simcards, teléfonos  Participar en reuniones de staff del área Ser parte de mesas ágiles en donde se defina las historias de usuario, se realice las pruebas y se de el feedback necesario.Requisitos IndispensablesEstudios universitarios en las siguientes áreas: Ingeniería en Sistemas, o Informática o Comercial. Contar con experiencia en posiciones similares o pruebas funcionales.Conocimientos de la herramientas Janus. Conocimientos para automatización de herramientas Conocimiento en office 365. (Excel) Requisitos Deseable: Experiencia en procesos de mejora continua Manejo de Jira Conocimientos de Itil Competencias: Capacidad Analítica Comunicación Efectiva Capacidad de Planificación Orientación a resultados “Hacer nuestro mundo más humano, conectando la vida de las personas” ",
+            "aptoDiscapacitado": false,
+            "idEmpresa": 1685090,
+            "empresa": "Movistar",
+            "confidencial": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/9/static/logoMainPic_1685090_bum_v8ecee698.jpg",
+            "fechaHoraPublicacion": "05-09-2024 22:25:47",
+            "fechaPublicacion": "05-09-2024",
+            "planPublicacion": {
+                "id": 470,
+                "nombre": "Home Ecuador"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 9,
+            "idArea": 19,
+            "idSubarea": 2618,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Quito, Pichincha",
+            "cantidadVacantes": 1,
+            "guardado": null,
+            "gptwUrl": null,
+            "match": null,
+            "promedioEmpresa": 4.24,
+            "modalidadTrabajo": "Híbrido",
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1116460612,
+            "titulo": "Asesor Comercial Saas",
+            "detalle": "Objetivo del cargo: Sales Executive Construex SaaS Gestionar todo el ciclo de ventas SaaS, con el fin de garantizar el cumplimiento de metas de ventas y otros KPIs. Cumplir con la adquisición de nuevas suscripciones y la retención de clientes a nivel regional. Perfil Educación: Estudios en administración de empresas, ingeniería comercial, marketing, psicología, comunicación, o negocios aplicados.Experiencia: Experiencia en ventas de intangibles, suscripciones digitales, servicios de software, software as a service, inteligencia de negocios y colocación de crédito. Manejo de Hubspot y otros CRMs. Experiencia en la industria de la construcción en América Latina- deseable. Experiencia multicultural.Conocimientos: Venta de intangibles Venta de Soluciones SaaS -deseable Conocimiento de la industria de la Construcción- deseable Idioma portugués- deseableSi cumples con el perfil te invitamos a ser parte de nuestra empresa que esta a nivel LATAM.",
+            "aptoDiscapacitado": false,
+            "idEmpresa": 13452095,
+            "empresa": "Construex",
+            "confidencial": false,
+            "logoURL": null,
+            "fechaHoraPublicacion": "05-09-2024 20:56:19",
+            "fechaPublicacion": "05-09-2024",
+            "planPublicacion": {
+                "id": 470,
+                "nombre": "Home Ecuador"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 9,
+            "idArea": 6,
+            "idSubarea": 23,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Quito, Pichincha",
+            "cantidadVacantes": 2,
+            "guardado": null,
+            "gptwUrl": null,
+            "match": null,
+            "promedioEmpresa": null,
+            "modalidadTrabajo": "Presencial",
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1116460563,
+            "titulo": "JEFE DE CREDITO Y COBRANZAS (MOTOCICLETAS)",
+            "detalle": "EMPRESA LIDER EN LA COMERCIALIZACIÓN DE MOTOCICLETAS Y MOTOCARROS REQUIERE UN JEFE DE CRÉDITOMISIONRealizar una óptima gestión de crèditos de consumo y cobranza a travès de un adecuado anàlisis y proyecciòn de riesgos estadìsticos.ESTUDIOSFinanzas - Administración o afinesEXPERIENCIA5 años en Gstiòn de Crèdito y Cobranzas en cadenas comerciales de RetailExcelente remuneración y ambiente de trabajo.",
+            "aptoDiscapacitado": false,
+            "empresa": "Confidencial",
+            "confidencial": true,
+            "logoURL": null,
+            "fechaHoraPublicacion": "05-09-2024 20:34:40",
+            "fechaPublicacion": "05-09-2024",
+            "planPublicacion": {
+                "id": 470,
+                "nombre": "Home Ecuador"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 9,
+            "idArea": 1,
+            "idSubarea": 2592,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Quito, Pichincha",
+            "cantidadVacantes": 1,
+            "guardado": null,
+            "gptwUrl": null,
+            "match": null,
+            "modalidadTrabajo": "Presencial",
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1116460510,
+            "titulo": "ANALISTA BI SENIOR - QUITO",
+            "detalle": "¿Listo para hackearte a ti mismo junto a Netlife?¿Te gustaría ser parte de una de las mejores empresas para trabajar en Ecuador?¡Esta es tú oportunidad!,En Netlife priorizamos siempre nuestra conexión con los colaboradores, con quienes creamos un ambiente en donde todos podemos ser nosotros mismos, a través de experiencias memorables que nos permiten vivir todos los días al máximo y con un efecto WOW.Buscamos a personas con mente abierta dispuestas a romper paradigmas y a hackearse a sí mismos para alcanzar un futuro mejor. Creemos que las soluciones más creativas e innovadoras nos permiten siempre ganar en grande, por eso nos enfocamos en impulsar una cultura basado en el liderazgo e innovación.Comprendemos que todos somos diferentes y que en la individualidad está la unión. Creemos que cada colaborador merece un plan de carrera, remuneración y capacitación personalizada que los ayude a alcanzar su máximo potencial e impulsar su crecimiento con nosotros En esta posición, tendrás la oportunidad de formar parte de un equipo dinámico en nuestra sede en Quito, Pichincha, Ecuador. Buscamos un Analista BI apasionado por reunir, analizar y transformar los datos en información para la toma de decisiones a través de cuadros de mando integral en función de la estrategia empresarial que posicionen y mantengan la ventaja competitiva desde la percepción de las necesidades de los clientes. Garantizando la disponibilidad las herramientas de BI.Como Analista BI, serás responsable de generar y liderar proyectos de automatización para los procesos de datos que se puedan presentar en Dashboards estadísticos.Estamos en búsqueda de personas proactivas, con mentalidad abierta, capaces de desafiar los paradigmas establecidos y preparadas para enfrentar los retos con creatividad y enfoque en la innovación. Valoramos la autonomía y la capacidad de liderazgo para impulsar cambios significativos en la organización.Si estás listo para unirte a una compañía que promueve la excelencia, la diversidad y el crecimiento personal, ¡esta es tu oportunidad para sobresalir como Analista BI en Netlife! Requisitos:  Qué te permitirá formar parte de nuestro equipo ?:• EDUCACIÓN: Título de Tercer Nivel Ingeniería de Sistemas y/o Estadística, Matemática, Economía, Tecnologías de la información. • EXPERIENCIA: 3 a 5 años en unidades BI y Ciencias de datos. Conocimientos en:Estadística descriptivaEstadística predictivaTrabajo con herramientas de BI (Qliksense, Qlikview, Power BI, Tableu u otras)Conocimientos de Lenguaje de SQLConocimientos de programaciónLiderazgo  Beneficios Te Ofrecemos:  Sueldo competitivo + beneficios de ley + beneficios internos  Plan carrera y oportunidades de crecimiento.  Disfruta de momentos saludables y divertidos con tu familia gracias a nuestros convenios exclusivos con gimnasios y otras entidades. ️‍️ Tendrás la oportunidad de disfrutar con tu familia el día de tu cumpleaños.  Se realizará acompañamiento durante tus primeros meses de trabajo.  Beneficios de seguro médico, seguro de vida , seguro vehicular. . Programas de formación y desarrollo.  Un ambiente de trabajo positivo y colaborativo.  Iniciativas de responsabilidad social.  Servicio de alimentación incluido.  Kit de bienvenida, credenciales y equipo celular.  La empresa te ofrecerá un ambiente agradable donde podrás capacitarte y ganar muchos beneficios por tu crecimiento profesional;¡Premiamos tus ganas de seguir aprendiendo!",
+            "aptoDiscapacitado": false,
+            "idEmpresa": 10060046,
+            "empresa": "Netlife",
+            "confidencial": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/9/static/logoMainPic_10060046_bum_vf23d3e62.jpg",
+            "fechaHoraPublicacion": "05-09-2024 20:25:18",
+            "fechaPublicacion": "05-09-2024",
+            "planPublicacion": {
+                "id": 470,
+                "nombre": "Home Ecuador"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 9,
+            "idArea": 14,
+            "idSubarea": 2600,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Quito, Pichincha",
+            "cantidadVacantes": 1,
+            "guardado": null,
+            "gptwUrl": null,
+            "match": null,
+            "promedioEmpresa": 3.45,
+            "modalidadTrabajo": "Presencial",
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1116460445,
+            "titulo": "ANALISTA DE CANALES ELECTRÓNICOS",
+            "detalle": "Misión: Implementar, procesar, actualizar y gestionar la operatividad de los servicios de canales electrónicos que dispone la cooperativa, de acuerdo a la estrategia institucional, para brindar un servicio de calidad a los socios y clientes. Requisitos: - Título de tercer nivel en contabilidad y auditoría, administración, comercial, finanzas o afines. - 2 años en cargos similares en instituciones financieras o cooperativas Conocimientos específicos: - Gestión de proyectos. ",
+            "aptoDiscapacitado": false,
+            "idEmpresa": 10106329,
+            "empresa": "COOPERATIVA 29  DE  OCTUBRE",
+            "confidencial": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/0/0/1/0/1/0/6/3/2/9/logoMainPic_10106329_bum_ve8f16272.jpg",
+            "fechaHoraPublicacion": "05-09-2024 19:59:40",
+            "fechaPublicacion": "05-09-2024",
+            "planPublicacion": {
+                "id": 470,
+                "nombre": "Home Ecuador"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 9,
+            "idArea": 1,
+            "idSubarea": 22,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Quito, Pichincha",
+            "cantidadVacantes": 1,
+            "guardado": null,
+            "gptwUrl": null,
+            "match": null,
+            "promedioEmpresa": 4.38,
+            "modalidadTrabajo": "Presencial",
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1116460429,
+            "titulo": "TECNICO DE SOPORTE SENIOR",
+            "detalle": "Descripción del puesto: Técnico de Soporte SrEstamos en la búsqueda de un Técnico de Soporte Sr para unirse a nuestro equipo en Guayaquil, Guayas, Ecuador. En nuestro departamento de Tecnología, Sistemas y Telecomunicaciones, buscamos a un profesional semi senior capaz de brindar soporte técnico presencial. Requisitos:  Estudiante universitario o profesional en Tecnología Informática, Ingeniera en Sistemas o afines.  Experiencia mínima de 2 años como Técnico de Soporte, conocimientos en Networking, sistemas operativos y servicio técnico. Disponiblidad de trabajar fin de semana en horario nocturno.",
+            "aptoDiscapacitado": false,
+            "idEmpresa": 1831130,
+            "empresa": "American Call Center",
+            "confidencial": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/9/static/logoMainPic_1831130_bum_v77a45f02.jpg",
+            "fechaHoraPublicacion": "05-09-2024 19:53:26",
+            "fechaPublicacion": "05-09-2024",
+            "planPublicacion": {
+                "id": 470,
+                "nombre": "Home Ecuador"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 9,
+            "idArea": 19,
+            "idSubarea": 108,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Guayas, Guayas",
+            "cantidadVacantes": 1,
+            "guardado": null,
+            "gptwUrl": null,
+            "match": null,
+            "promedioEmpresa": 2.81,
+            "modalidadTrabajo": "Presencial",
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1116460289,
+            "titulo": "LABORATORISTA CON EXPERIENCIA",
+            "detalle": "PRINCIPALES FUNCIONES:- Prestar una atención bajo los estándares de calidad al paciente;- Realizar flebotomía en la ubicacion que la empresa le designe;- Toma de historia clínica del paciente;- Aplicación de normas de bioseguridad;- Asistir a los médicos en caso de así requerirlo;- Entregar de información real y oportuna de pacientes;- Realizar el cobro y facturación de exámenes realizados al paciente;",
+            "aptoDiscapacitado": false,
+            "empresa": "Confidencial",
+            "confidencial": true,
+            "logoURL": null,
+            "fechaHoraPublicacion": "05-09-2024 18:49:15",
+            "fechaPublicacion": "05-09-2024",
+            "planPublicacion": {
+                "id": 470,
+                "nombre": "Home Ecuador"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 9,
+            "idArea": 23,
+            "idSubarea": 2520,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Quito, Pichincha",
+            "cantidadVacantes": 2,
+            "guardado": null,
+            "gptwUrl": null,
+            "match": null,
+            "modalidadTrabajo": "Presencial",
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1116460208,
+            "titulo": "Coordinador de Refrigeración",
+            "detalle": "En EXPALSA seguimos creciendo y por ello estamos en la búsqueda de talentos para el cargo de Coordinador de Refrigeración con experiencia en sistemas de refrigeración por amoníaco y freón.Misión del cargo:Elaborar y supervisar el plan de mantenimiento correctivo, preventivo y predictivo de forma semanal, mensual y anual para todos los equipos e instalaciones de refrigeración de la planta.Responsabilidades: Asegurar el óptimo funcionamiento de los equipos y la implementación correcta de procedimientos de mantenimiento e instalación para prevenir fallos, fugas y problemas en el sistema de refrigeración. Verificar y garantizar que todos los equipos de refrigeración operen dentro de los rangos de presión diseñados, minimizando riesgos y optimizando el rendimiento. Diseñar y llevar a cabo inspecciones periódicas exhaustivas en sistemas, maquinaria y equipos, identificando y abordando posibles problemas.Requisitos: Formación académica de tercer nivel en Tecnología o Ingeniería en Mecánica, Refrigeración, Producción o afines a las áreas técnicas. Experiencia mínima de 3 años como supervisor, planificar o coordinador de mantenimiento con énfasis en refrigeración. Conocimientos en principios y funcionamiento de los sistemas de refrigeración por amoníaco y freón; que incluyan compresores, condensadores, evaporadores y sistemas de control.Beneficios:Ofrecemos todos los beneficios propios de ley, servicios de alimentación y transporte cubiertos al 100% y participación activa en programas de desarrollo con proyección de crecimiento profesional.",
+            "aptoDiscapacitado": false,
+            "idEmpresa": 1832290,
+            "empresa": "EXPALSA",
+            "confidencial": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/9/static/logoMainPic_1832290_bum_v852a98bf.jpg",
+            "fechaHoraPublicacion": "05-09-2024 18:05:24",
+            "fechaPublicacion": "05-09-2024",
+            "planPublicacion": {
+                "id": 470,
+                "nombre": "Home Ecuador"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 9,
+            "idArea": 30,
+            "idSubarea": 59,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Durán, Guayas",
+            "cantidadVacantes": 1,
+            "guardado": null,
+            "gptwUrl": null,
+            "match": null,
+            "promedioEmpresa": 4.61,
+            "modalidadTrabajo": "Presencial",
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1116460188,
+            "titulo": "ESPECIALISTA TI",
+            "detalle": "Importante Industria dedicada a la fabricación y comercialización de productos, se encuentra en búsqueda de Especialista TI (Tecnología de la Información).Misión del cargo: Liderar los procesos de Tecnología de Información y Comunicaciones, ejecutar los planes y proyectos de TI para contribuir con los objetivos estratégicos de la compañía.Funciones principales:-Garantizar la operación y continuidad de los servicios tecnológicos con las áreas y/o proveedores.-Proponer y participar de la selección de soluciones y habilitadores tecnológicos que faciliten y/o sustenten el cumplimiento de los objetivos estratégicos.-Ejecutar y controlar el presupuesto de TI.-Supervisar y facilitar el cumplimiento de los niveles de servicio de la empresa y la Mesa de Ayuda.-Atender las solicitudes planteadas por los usuarios, en forma directa o por medio del servicio de Mesa de Ayuda.-Gestionar, evaluar y analizar las propuestas de proveedores para efectuar la renovación o compra de equipos tecnológicos.-Garantizar el funcionamiento y operación de las redes, infraestructura y servicios OT de las plantas de producción.-Coordinar y/o supervisar con el proveedor respectivo el mantenimiento preventivo y correctivo de las redes cableadas e inalámbricas y de las soluciones de conectividad y telefonía.-Coordinar el mantenimiento, verificación, regulación y reparación de dispositivos, cableado y accesorios de los circuitos cerrados de Televisión (CCTV).-Generar los indicadores de gestión, informes y reportes requeridos para optimizar los recursos tecnológicos de la organización.-Asegurar y supervisar el cumplimiento de las políticas de Seguridad de Información y Protección de Datos definidas por la organización.Requisitos:Educación: Profesional Graduado en Ingeniería en Sistemas, Ingeniería electrónica o carreras afines. Deseable estudios de especialización en Gerencia de Proyectos, Sistemas de Información o afines.Experiencia: Mínimo 3 años de experiencia en cargos similares.Conocimientos: Gestión de proyectos (PMI), Certificaciones ITIL, Seguridad informática, Infraestructura – Data center, Dispositivos PLC, Inglés.Habilidades: Atención al cliente, Comunicación, Proactividad, Negociación, Administración de proveedores y Manejo de conflictos.¿Qué ofrecemos? Sueldo competitivo, beneficios de ley, beneficios propios de la empresa, alimentación, movilización, entre otros.",
+            "aptoDiscapacitado": false,
+            "empresa": "Confidencial",
+            "confidencial": true,
+            "logoURL": null,
+            "fechaHoraPublicacion": "05-09-2024 17:59:42",
+            "fechaPublicacion": "05-09-2024",
+            "planPublicacion": {
+                "id": 2007,
+                "nombre": "IT-45-60"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 9,
+            "idArea": 19,
+            "idSubarea": 105,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Guayaquil, Guayas",
+            "cantidadVacantes": 1,
+            "guardado": null,
+            "gptwUrl": null,
+            "match": null,
+            "modalidadTrabajo": "Presencial",
+            "tipoAviso": "tecnologia"
+        }
+    ],
+    "filters": [
+        {
+            "type": "provincia",
+            "facets": [
+                {
+                    "id": "77",
+                    "idSemantico": "ecuador|pichincha",
+                    "name": "Pichincha",
+                    "quantity": 1611
+                },
+                {
+                    "id": "72",
+                    "idSemantico": "ecuador|guayas",
+                    "name": "Guayas",
+                    "quantity": 1255
+                },
+                {
+                    "id": "151",
+                    "idSemantico": "ecuador|azuay",
+                    "name": "Azuay",
+                    "quantity": 298
+                },
+                {
+                    "id": "375",
+                    "idSemantico": "ecuador|manabi",
+                    "name": "Manabi",
+                    "quantity": 165
+                },
+                {
+                    "id": "135",
+                    "idSemantico": "ecuador|tungurahua",
+                    "name": "Tungurahua",
+                    "quantity": 111
+                },
+                {
+                    "id": "2141",
+                    "idSemantico": "ecuador|el-oro",
+                    "name": "El Oro",
+                    "quantity": 106
+                },
+                {
+                    "id": "880",
+                    "idSemantico": "ecuador|santo-domingo-de-los-tsachilas",
+                    "name": "Santo Domingo de los Tsachilas",
+                    "quantity": 78
+                },
+                {
+                    "id": "879",
+                    "idSemantico": "ecuador|imbabura",
+                    "name": "Imbabura",
+                    "quantity": 60
+                },
+                {
+                    "id": "1764",
+                    "idSemantico": "ecuador|los-rios",
+                    "name": "Los Rios",
+                    "quantity": 58
+                },
+                {
+                    "id": "121207",
+                    "idSemantico": "ecuador|chimborazo",
+                    "name": "Chimborazo",
+                    "quantity": 51
+                },
+                {
+                    "id": "127461",
+                    "idSemantico": "ecuador|loja",
+                    "name": "Loja",
+                    "quantity": 48
+                },
+                {
+                    "id": "5350",
+                    "idSemantico": "ecuador|cotopaxi",
+                    "name": "Cotopaxi",
+                    "quantity": 45
+                },
+                {
+                    "id": "9139",
+                    "idSemantico": "ecuador|santa-elena",
+                    "name": "Santa Elena",
+                    "quantity": 19
+                },
+                {
+                    "id": "7753",
+                    "idSemantico": "ecuador|zamora-chinchipe",
+                    "name": "Zamora-Chinchipe",
+                    "quantity": 14
+                },
+                {
+                    "id": "162667",
+                    "idSemantico": "ecuador|canar",
+                    "name": "Canar",
+                    "quantity": 14
+                },
+                {
+                    "id": "1578",
+                    "idSemantico": "ecuador|sucumbios",
+                    "name": "Sucumbios",
+                    "quantity": 13
+                },
+                {
+                    "id": "6123",
+                    "idSemantico": "ecuador|napo",
+                    "name": "Napo",
+                    "quantity": 13
+                },
+                {
+                    "id": "6479",
+                    "idSemantico": "ecuador|pastaza",
+                    "name": "Pastaza",
+                    "quantity": 13
+                },
+                {
+                    "id": "24639",
+                    "idSemantico": "ecuador|orellana",
+                    "name": "Orellana",
+                    "quantity": 11
+                },
+                {
+                    "id": "162668",
+                    "idSemantico": "ecuador|esmeraldas",
+                    "name": "Esmeraldas",
+                    "quantity": 11
+                },
+                {
+                    "id": "50477",
+                    "idSemantico": "ecuador|carchi",
+                    "name": "Carchi",
+                    "quantity": 9
+                },
+                {
+                    "id": "108165",
+                    "idSemantico": "ecuador|morona-santiago",
+                    "name": "Morona-Santiago",
+                    "quantity": 9
+                },
+                {
+                    "id": "32599",
+                    "idSemantico": "ecuador|bolivar",
+                    "name": "Bolivar",
+                    "quantity": 7
+                },
+                {
+                    "id": "162669",
+                    "idSemantico": "ecuador|islas-galapagos",
+                    "name": "Islas Galapagos",
+                    "quantity": 3
+                }
+            ]
+        },
+        {
+            "type": "area",
+            "facets": [
+                {
+                    "id": "6",
+                    "idSemantico": "comercial-ventas-y-negocios",
+                    "name": "Comercial, Ventas y Negocios",
+                    "quantity": 1594
+                },
+                {
+                    "id": "1",
+                    "idSemantico": "administracion-contabilidad-y-finanzas",
+                    "name": "Administración, Contabilidad y Finanzas",
+                    "quantity": 550
+                },
+                {
+                    "id": "14",
+                    "idSemantico": "marketing-y-publicidad",
+                    "name": "Marketing y Publicidad",
+                    "quantity": 264
+                },
+                {
+                    "id": "3",
+                    "idSemantico": "abastecimiento-y-logistica",
+                    "name": "Abastecimiento y Logística",
+                    "quantity": 255
+                },
+                {
+                    "id": "16",
+                    "idSemantico": "produccion-y-manufactura",
+                    "name": "Producción y Manufactura",
+                    "quantity": 219
+                },
+                {
+                    "id": "22",
+                    "idSemantico": "oficios-y-otros",
+                    "name": "Oficios y Otros",
+                    "quantity": 201
+                },
+                {
+                    "id": "30",
+                    "idSemantico": "ingenierias",
+                    "name": "Ingenierías",
+                    "quantity": 183
+                },
+                {
+                    "id": "25",
+                    "idSemantico": "atencion-al-cliente-call-center-y-telemarketing",
+                    "name": "Atención al Cliente, Call Center y Telemarketing",
+                    "quantity": 129
+                },
+                {
+                    "id": "23",
+                    "idSemantico": "salud-medicina-y-farmacia",
+                    "name": "Salud, Medicina y Farmacia",
+                    "quantity": 104
+                },
+                {
+                    "id": "17",
+                    "idSemantico": "recursos-humanos-y-capacitacion",
+                    "name": "Recursos Humanos y Capacitación",
+                    "quantity": 98
+                },
+                {
+                    "id": "19",
+                    "idSemantico": "tecnologia-sistemas-y-telecomunicaciones",
+                    "name": "Tecnología, Sistemas y Telecomunicaciones",
+                    "quantity": 85
+                },
+                {
+                    "id": "10",
+                    "idSemantico": "gastronomia-y-turismo",
+                    "name": "Gastronomía y Turismo",
+                    "quantity": 70
+                },
+                {
+                    "id": "31",
+                    "idSemantico": "diseno",
+                    "name": "Diseño",
+                    "quantity": 40
+                },
+                {
+                    "id": "2",
+                    "idSemantico": "aduana-y-comercio-exterior",
+                    "name": "Aduana y Comercio Exterior",
+                    "quantity": 37
+                },
+                {
+                    "id": "9",
+                    "idSemantico": "educacion-docencia-e-investigacion",
+                    "name": "Educación, Docencia e Investigación",
+                    "quantity": 36
+                },
+                {
+                    "id": "4",
+                    "idSemantico": "ingenieria-civil-y-construccion",
+                    "name": "Ingeniería Civil y Construcción",
+                    "quantity": 27
+                },
+                {
+                    "id": "18",
+                    "idSemantico": "comunicacion-relaciones-institucionales-y-publicas",
+                    "name": "Comunicación, Relaciones Institucionales y Públicas",
+                    "quantity": 27
+                },
+                {
+                    "id": "26",
+                    "idSemantico": "secretarias-y-recepcion",
+                    "name": "Secretarias y Recepción",
+                    "quantity": 26
+                },
+                {
+                    "id": "13",
+                    "idSemantico": "legales",
+                    "name": "Legales",
+                    "quantity": 23
+                },
+                {
+                    "id": "28",
+                    "idSemantico": "seguros",
+                    "name": "Seguros",
+                    "quantity": 23
+                },
+                {
+                    "id": "35",
+                    "idSemantico": "sociologia-trabajo-social",
+                    "name": "Sociología / Trabajo Social",
+                    "quantity": 11
+                },
+                {
+                    "id": "11",
+                    "idSemantico": "gerencia-y-direccion-general",
+                    "name": "Gerencia y Dirección General",
+                    "quantity": 6
+                },
+                {
+                    "id": "36",
+                    "idSemantico": "departamento-tecnico",
+                    "name": "Departamento Tecnico",
+                    "quantity": 5
+                },
+                {
+                    "id": "29",
+                    "idSemantico": "mineria-petroleo-y-gas",
+                    "name": "Minería, Petróleo y Gas",
+                    "quantity": 4
+                },
+                {
+                    "id": "33",
+                    "idSemantico": "enfermeria",
+                    "name": "Enfermería",
+                    "quantity": 3
+                },
+                {
+                    "id": "38",
+                    "idSemantico": "naviero-maritimo-portuario",
+                    "name": "Naviero, Maritimo, Portuario",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "type": "apto_discapacitado",
+            "facets": [
+                {
+                    "id": "true",
+                    "idSemantico": "discapacitados-apto",
+                    "name": "Apto discapacitados",
+                    "quantity": 220
+                }
+            ]
+        },
+        {
+            "type": "tipo_trabajo",
+            "facets": [
+                {
+                    "id": "2",
+                    "idSemantico": "full-time",
+                    "name": "Full-time",
+                    "quantity": 3792
+                },
+                {
+                    "id": "1",
+                    "idSemantico": "part-time",
+                    "name": "Part-time",
+                    "quantity": 105
+                },
+                {
+                    "id": "4",
+                    "idSemantico": "pasantia",
+                    "name": "Pasantia",
+                    "quantity": 44
+                },
+                {
+                    "id": "5",
+                    "idSemantico": "por-contrato",
+                    "name": "Por Contrato",
+                    "quantity": 29
+                },
+                {
+                    "id": "3",
+                    "idSemantico": "temporario",
+                    "name": "Temporario",
+                    "quantity": 24
+                },
+                {
+                    "id": "8",
+                    "idSemantico": "por-horas",
+                    "name": "Por Horas",
+                    "quantity": 23
+                },
+                {
+                    "id": "11",
+                    "idSemantico": "nocturno",
+                    "name": "Nocturno",
+                    "quantity": 3
+                },
+                {
+                    "id": "9",
+                    "idSemantico": "fines-de-semana",
+                    "name": "Fines de Semana",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "type": "tipo_contratacion",
+            "facets": [
+                {
+                    "id": "1",
+                    "idSemantico": "indeterminado",
+                    "name": "Indeterminado",
+                    "quantity": 2536
+                },
+                {
+                    "id": "2",
+                    "idSemantico": "temporal",
+                    "name": "Temporal",
+                    "quantity": 116
+                },
+                {
+                    "id": "4",
+                    "idSemantico": "pasantia",
+                    "name": "Pasantía",
+                    "quantity": 67
+                },
+                {
+                    "id": "5",
+                    "idSemantico": "autonomo",
+                    "name": "Autónomo",
+                    "quantity": 22
+                }
+            ]
+        },
+        {
+            "type": "nivel_laboral",
+            "facets": [
+                {
+                    "id": "2",
+                    "idSemantico": "junior",
+                    "name": "Junior",
+                    "quantity": 861
+                },
+                {
+                    "id": "8",
+                    "idSemantico": "semi-sr",
+                    "name": "Semi Sr",
+                    "quantity": 805
+                },
+                {
+                    "id": "7",
+                    "idSemantico": "senior",
+                    "name": "Senior",
+                    "quantity": 538
+                },
+                {
+                    "id": "4",
+                    "idSemantico": "jefe-supervisor-responsable",
+                    "name": "Jefe / Supervisor / Responsable",
+                    "quantity": 529
+                },
+                {
+                    "id": "1",
+                    "idSemantico": "senior-semi-senior",
+                    "name": "Senior / Semi-Senior",
+                    "quantity": 486
+                },
+                {
+                    "id": "5",
+                    "idSemantico": "otro",
+                    "name": "Otro",
+                    "quantity": 191
+                },
+                {
+                    "id": "3",
+                    "idSemantico": "gerencia-alta-gerencia-direccion",
+                    "name": "Gerencia / Alta Gerencia / Dirección",
+                    "quantity": 69
+                },
+                {
+                    "id": "9",
+                    "idSemantico": "trainee-pasante",
+                    "name": "Trainee / Pasante",
+                    "quantity": 56
+                },
+                {
+                    "id": "6",
+                    "idSemantico": "sin-experiencia",
+                    "name": "Sin Experiencia",
+                    "quantity": 24
+                }
+            ]
+        },
+        {
+            "type": "modalidad_trabajo",
+            "facets": [
+                {
+                    "id": "1",
+                    "idSemantico": "presencial",
+                    "name": "Presencial",
+                    "quantity": 3890
+                },
+                {
+                    "id": "3",
+                    "idSemantico": "hibrido",
+                    "name": "Híbrido",
+                    "quantity": 108
+                },
+                {
+                    "id": "2",
+                    "idSemantico": "remoto",
+                    "name": "Remoto",
+                    "quantity": 24
+                }
+            ]
+        },
+        {
+            "type": "dias_fecha_publicacion",
+            "facets": [
+                {
+                    "id": "now/d",
+                    "idSemantico": "publicacion-hoy",
+                    "name": "Hoy",
+                    "quantity": 4
+                },
+                {
+                    "id": "now-1d/d",
+                    "idSemantico": "publicacion-menor-a-2-dias",
+                    "name": "Menor a 2 días",
+                    "quantity": 13
+                },
+                {
+                    "id": "now-3d/d",
+                    "idSemantico": "publicacion-menor-a-3-dias",
+                    "name": "Menor a 3 días",
+                    "quantity": 208
+                },
+                {
+                    "id": "now-4d/d",
+                    "idSemantico": "publicacion-menor-a-4-dias",
+                    "name": "Menor a 4 días",
+                    "quantity": 327
+                },
+                {
+                    "id": "now-5d/d",
+                    "idSemantico": "publicacion-menor-a-5-dias",
+                    "name": "Menor a 5 días",
+                    "quantity": 439
+                },
+                {
+                    "id": "now-6d/d",
+                    "idSemantico": "publicacion-menor-a-6-dias",
+                    "name": "Menor a 6 días",
+                    "quantity": 534
+                },
+                {
+                    "id": "now-7d/d",
+                    "idSemantico": "publicacion-menor-a-7-dias",
+                    "name": "Menor a 1 semana",
+                    "quantity": 535
+                },
+                {
+                    "id": "now-15d/d",
+                    "idSemantico": "publicacion-menor-a-15-dias",
+                    "name": "Menor a 15 días",
+                    "quantity": 1070
+                },
+                {
+                    "id": "now-31d/d",
+                    "idSemantico": "publicacion-menor-a-1-mes",
+                    "name": "Menor a 1 mes",
+                    "quantity": 2137
+                }
+            ]
+        }
+    ],
+    "filtersApplied": [],
+    "totalSearched": 4022,
+    "homeList": null
+}

@@ -1,0 +1,15 @@
+hard_skills:['3ds max', 'adobe', 'agile', 'programacion', 'gestion financiera', 'angularjs', 'apache avro', 'apache drill', 'apache hive', 'apache kafka', 'arcgis', 'asesoria comercial', 'asesoria legal', 'asp',
+		'auditoria', 'autocad', 'backbone', 'big data', 'c', 'c#', 'c++', 'calidad', 'call center', 'codeigniter', 'comercio exterior', 'compras', 'construccion', 'consultoria', 'contabilidad', 'crm', 'css',
+		'desarrollo de negocio', 'desarrollo de producto', 'gestion de documentos', 'direccion', 'direccion de ventas', 'diseno', 'django', 'dot net', 'edicion', 'electronica', 'enfermeria', 'erp', 'eventos',
+		'expression web', 'facturacion', 'finanzas', 'formacion', 'fotografia', 'gestion', 'gestion de recursos', 'gestion de proyectos', 'gestion de ventas', 'google bigtable', 'habilidad comercial', 'hadoop',
+		'html5', 'impala', 'ingenieria', 'inmobiliaria', 'internet', 'iso 9001', 'java', 'javascript', 'jquery', 'kanban', 'laravel' 'lean software development', 'libreoffice', 'linux', 'logistica', 'mac os',
+		'machine learning', 'manipulacion de alimentos', 'mantenimiento', 'marketing', 'mejora del rendimiento', 'mercadeo', 'microsoft excel', 'microsoft office', 'mysql', 'net', 'net mvc', 'net mvc web api',
+		'networking', 'node', 'nominas', 'objective-c', 'oracle', 'pedagogia', 'perl', 'php', 'planificacion', 'postgresql', 'presentaciones', 'primeros auxilios', 'principios solid', 'proceso de mejora',
+		'promocion', 'prototype', 'proveedores', 'psicologia', 'publicidad', 'python', 'r', 'recursos humanos', 'redes', 'redes sociales', 'refactoring', 'relaciones publicas', 'reporte', 'salud', 'salud ocupacional',
+		'sap', 'sass', 'scala', 'scrum', 'servidores', 'contabilidad', 'solidworks', 'spark', 'spring mvc', 'sql server', 'swift', 'symfony', 'tecnologia', 'test-driven development (tdd)', 'testeo', 'ventas',
+		'windows', 'wordpress', 'zend framework', 'analisis de datos', 'ciberseguridad', 'inteligencia artificial', 'aprendizaje de maquina', 'desarrollo web', 'uxui', 'computacion en la nube', 'bases de datos',
+		'marketing digital', 'automatizacion de procesos', 'aplicaciones moviles', 'seo', 'estadistica', 'blockchain', 'realidad aumentada', 'realidad virtual', 
+		]
+soft_skills:['adaptabilidad', 'administracion', 'analisis', 'aprendizaje', 'autoconfianza', 'capacidad de decision', 'comunicacion', 'creacion de equipos', 'creatividad',  'docencia','empatia', 'gestion de las emociones',
+		'iniciativa', 'innovacion', 'investigacion', 'lean', 'liderazgo', 'negociacion', 'organizacion', 'redaccion', 'resolucion de problemas', 'servicio al cliente', 'superacion', 'trabajo en equipo',
+		'pensamiento critico', 'escucha activa', 'proactividad', 'eficiencia', 'determinacion', 'versatilidad', 'confianza', 'inspiracion', 'flexibilidad']
